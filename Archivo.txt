@@ -7,3 +7,5 @@ Y esto es el tercero, sigue siendo la misma mierda solo que con mas texto, bue s
 probando desde vs code 
 chupete incide mal boooooo
 ta re raro loco
+
+nueva ssh
